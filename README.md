@@ -75,11 +75,6 @@ Tested on:
 - Ubuntu
 - Arch Linux
 - Debian
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
 ---
 
 Happy Monitoring! 📡
